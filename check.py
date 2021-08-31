@@ -18,7 +18,7 @@ def readdump(filename):
     return y
 
 
-dump = readdump("collision.dump")
+dump = readdump("test.lammpstrj")
 input = np.arange(-10, 20, 1)
 
 for x, y in zip(input, dump):
