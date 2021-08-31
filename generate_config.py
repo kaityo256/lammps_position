@@ -33,7 +33,7 @@ def save_file(filename, atoms, lo, hi):
 
 if __name__ == "__main__":
     lo = -10
-    hi = 20
+    hi = 30
     atoms = []
     for x in np.arange(lo, hi, 1):
         atoms.append(Atom(x, 0, 0))
