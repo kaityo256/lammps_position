@@ -1,5 +1,7 @@
 # A Sample File for LAMMPS
 
+[README_ja.md](README_ja.md)
+
 This is a sample input file for LAMMPS to check the relation between input and output configuration.
 
 ## Usage
